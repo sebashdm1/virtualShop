@@ -9,3 +9,23 @@ N
 resources/views/test.blade.php,a\f\af2dcfeaf1fc08ae5822c366f9fb813b2e090cdf
 >
 routes/web.php,6\b\6b9a783d9b43fee50fd28f56dbd1856d2608f305
+S
+#resources/views/dashboard.blade.php,c\b\cb9b83605560606e98f1366cfe970597db7f6f83
+W
+'app/Http/Controllers/HomeController.php,9\c\9c8530715f6b05b710e3fa767bada1e4d0297e47
+S
+#app/Http/Controllers/Controller.php,2\e\2ed23e1749f02eb8e561f0a531d07863e7cf9fb9
+\
+,app/Http/Controllers/DashboardController.php,9\7\976d53d2f21f3d8814f2725bba3b5822961f7cc1
+4
+.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+l
+<database/migrations/2014_10_12_000000_create_users_table.php,d\e\de963aaada5c6577b654cfbdcf083dc355b1fa2b
+v
+Fdatabase/migrations/2014_10_12_100000_create_password_resets_table.php,e\f\eff59cfca55470b5a81fdbeb82498e8bfe5c8174
+C
+config/database.php,6\9\69e3bd8ddf957a32ec5a3b80a87f8cc4bfe36a27
+@
+app/Customer.php,1\5\15d4054bb45f6445caa758de4e34a405bfcc2f75
+o
+?database/migrations/2020_06_09_211125_create_table_customer.php,8\1\8156f2bd2c9b136a80b73b79b5e4cda12c470e06

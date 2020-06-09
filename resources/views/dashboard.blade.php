@@ -82,10 +82,11 @@
             <div class="content">
                 <div class="title m-b-md">
                   @isset($title)
-                    {{$title}}
+                      {{$title}}
                     @else
-                    {{'No title'}}
+                      {{'No title'}}
                     @endisset
+
                 </div>
 
                 <div class="links">
