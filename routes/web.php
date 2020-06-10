@@ -17,3 +17,4 @@ Route::get('/', 'HomeController@index');
 
 Route::get('/dashboard','dashboardController@index');
 
+Route::resource('/customers','CustomerController');

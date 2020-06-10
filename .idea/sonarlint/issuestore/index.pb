@@ -5,8 +5,6 @@
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 Q
 !resources/views/welcome.blade.php,0\c\0c96dd63e07fb2e889aeaea5cbabd89d0d09f1fb
-N
-resources/views/test.blade.php,a\f\af2dcfeaf1fc08ae5822c366f9fb813b2e090cdf
 >
 routes/web.php,6\b\6b9a783d9b43fee50fd28f56dbd1856d2608f305
 S
@@ -29,3 +27,11 @@ C
 app/Customer.php,1\5\15d4054bb45f6445caa758de4e34a405bfcc2f75
 o
 ?database/migrations/2020_06_09_211125_create_table_customer.php,8\1\8156f2bd2c9b136a80b73b79b5e4cda12c470e06
+V
+&resources/views/layouts/base.blade.php,7\f\7ff438dc7138b3edd5a1c63ddb967d9953cc60c7
+X
+(resources/views/customer/index.blade.php,7\7\77e242fa0932215784d235763e0095da8796554f
+[
++app/Http/Controllers/CustomerController.php,7\b\7b520c789152f89396d9f12d97a1fa8436c0f7ab
+Y
+)resources/views/customer/create.blade.php,f\d\fd7de24eb76a4f733596229c4e4b0b3841e7a8cc
